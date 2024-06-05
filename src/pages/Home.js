@@ -27,12 +27,12 @@ function Home() {
   return (
     <div className='w-full min-h-screen h-auto overflow-y-scroll flex flex-col items-center'>
       <div className='w-full h-60 max-sm:h-48 bg-krbanner bg-center relative'>
-        <button ref={menuRef} onClick={openMenu} className='absolute w-10 h-10 top-8 right-12 bg-white rounded-full border-none outline-none'>
+        <button ref={menuRef} onClick={openMenu} className='absolute w-10 h-10 top-8 right-12 max-sm:right-8 max-sm:top-6 bg-white rounded-full border-none outline-none'>
           <i class="fa-solid fa-ellipsis relative">
-            {menu ? <div  className='w-52 h-auto bg-white absolute top-6 right-6 rounded-lg flex flex-col items-center py-2 z-50'>
-              <div className='w-48 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'><a href="mailto:klasiklerwattpad@gmail.com" target="_blank" rel="noopener noreferrer">Bize mail gönder</a></div>
-              <div className='w-48 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'>Bu sayfa hakkında</div>
-              <div className='w-48 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'>İçeriği şikayet et</div>
+            {menu ? <div  className='w-52 max-sm:w-60 h-auto bg-white absolute top-6 right-6 rounded-lg flex flex-col items-center py-2 z-50'>
+              <div className='w-48 max-sm:w-56 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'><a href="mailto:klasiklerwattpad@gmail.com" target="_blank" rel="noopener noreferrer">Bize mail gönder</a></div>
+              <div className='w-48 max-sm:w-56 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'>Bu sayfa hakkında</div>
+              <div className='w-48 max-sm:w-56 w h-10 rounded-lg hover:bg-gray-200 font-dmsans text-sm flex items-center px-4'>İçeriği şikayet et</div>
             </div> : null}
           </i>
         </button>
