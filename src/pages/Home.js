@@ -45,7 +45,7 @@ function Home() {
         <a href='https://www.wattpad.com/user/ClassicsTR'>@ClassicsTR</a>
       </div>
 
-      <div className='w-5/12 h-20 text-center flex items-center justify-center font-jakarta text-base text-gray-500 font-normal max-sm:w-10/12 max-sm:text-sm'>
+      <div className='w-5/12 h-24 text-center flex items-center justify-center font-jakarta text-base text-gray-500 font-normal max-sm:w-11/12 max-sm:text-sm'>
         Bu profil, klasik yazarların hayatlarını ve eserlerini
         anmak ve okuma listeleri aracılığı ile klasik romanlara erişmeniz için bağlantı noktası görevi görür.
       </div>
