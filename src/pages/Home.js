@@ -26,7 +26,7 @@ function Home() {
 
   return (
     <div className='w-full min-h-screen h-auto overflow-y-scroll flex flex-col items-center'>
-      <div className='w-full h-60 max-sm:h-48 bg-krbanner bg-center relative'>
+      <div className='w-full h-60 max-sm:h-44 bg-cover bg-krbanner bg-center relative'>
         <button ref={menuRef} onClick={openMenu} className='absolute w-10 h-10 top-8 right-12 max-sm:right-8 max-sm:top-6 bg-white rounded-full border-none outline-none'>
           <i class="fa-solid fa-ellipsis relative">
             {menu ? <div  className='w-52 max-sm:w-60 h-auto bg-white absolute top-6 right-6 rounded-lg flex flex-col items-center py-2 z-50'>
