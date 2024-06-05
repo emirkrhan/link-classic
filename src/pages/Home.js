@@ -66,7 +66,7 @@ function Home() {
 
       <div className='w-full h-auto py-12 flex flex-col gap-10 max-sm:gap-4 items-center max-sm:py-6'>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://forms.gle/RhaRsnYwfu1RkWh97' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://forms.gle/RhaRsnYwfu1RkWh97' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-black flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center justify-center text-white text-xl max-sm:text-base max-sm:w-3/12'>
@@ -80,7 +80,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://forms.gle/Qfkw1bpS42rSqhpS6' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://forms.gle/Qfkw1bpS42rSqhpS6' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center justify-center text-lg max-sm:text-base max-sm:w-3/12'>
@@ -94,7 +94,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://forms.gle/Qfkw1bpS42rSqhpS6' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://forms.gle/Qfkw1bpS42rSqhpS6' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -108,7 +108,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/625520157-trk-edebiyat-klasikleri' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/625520157-trk-edebiyat-klasikleri' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#E74C3C] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -122,7 +122,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/650851164' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650851164' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#538392] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -136,7 +136,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/650850589' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850589' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#6B8A7A] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -150,7 +150,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/650850766' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850766' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#808836] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -164,7 +164,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/650851698' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650851698' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#987070] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -178,7 +178,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/650850912' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850912' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#B5C18E] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -192,7 +192,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/865638071' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/865638071' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#A91D3A] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -206,7 +206,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/1040994699' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1040994699' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#5AB2FF] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -220,7 +220,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/1197032084' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1197032084' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#640D6B] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -234,7 +234,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/1533130386' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1533130386' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#3C5B6F] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
@@ -248,7 +248,7 @@ function Home() {
           </div>
         </a>
 
-        <a className='w-3/5 h-16 max-sm:w-4/5' href='https://www.wattpad.com/list/1577237256' target="_blank" rel="noopener noreferrer">
+        <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1577237256' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
               <div className='w-2/12 h-16 flex items-center text-[#FF5733] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
