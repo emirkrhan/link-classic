@@ -313,7 +313,7 @@ function Home() {
             <div className='w-full pl-8 pr-4 line-clamp-[9] max-sm:line-clamp-[6] max-sm:text-xs mt-2 text-justify'>Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt. Kurtuluş Savaşı'nın ateşten gömleğinin içinden çıkmış bir roman. Halide Edib Adıvar, her birini yakından tanıdığı roman kişilerini, yani silah arkadaşlarını içtenlikle, çağına ve yaşanan acı olaylara sorumlulukla tanıklık ederek anlatıyor. Bağımsızlık savaşımızı bütün gerçekliği ve canlılığıyla anlatan belki de en önemli roman, Ateşten Gömlek.
             </div>
             <div className='w-full pt-6 pb-2 px-8'>
-              <a href="https://www.wattpad.com/story/361933106-i̇nsanlığımı-yitirirken" className='py-3 px-8 bg-black rounded-full max-sm:text-sm text-white'>Hemen Oku</a>
+              <a href="https://www.wattpad.com/story/138603697-ateşten-gömlek" className='py-3 px-8 bg-black rounded-full max-sm:text-sm text-white'>Hemen Oku</a>
             </div>
           </div>
         </div>
