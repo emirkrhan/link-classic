@@ -321,7 +321,7 @@ function Home() {
       </div>
 
       <div className='w-full h-32 flex items-center justify-center'>
-        <div className='w-8/12 h-12 flex items-center justify-center bg-gray-200 rounded-full text-sm max-sm:text-xs max-sm:h-10 max-sm:w-9/12'>© 2024 Klasikler | Türkiye, All Rights Reserved</div>
+        <div className='w-8/12 h-12 flex items-center justify-center bg-gray-100 rounded-full text-sm max-sm:text-xs max-sm:h-10 max-sm:w-9/12'>© 2024 Klasikler | Türkiye, All Rights Reserved</div>
       </div>
       
     </div>
