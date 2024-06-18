@@ -26,7 +26,7 @@ function Home() {
 
 
   return (
-    <div className='w-full min-h-screen h-auto overflow-y-scroll flex flex-col items-center'>
+    <div className='w-full min-h-screen h-auto flex flex-col items-center'>
       <div className='w-full h-60 max-sm:h-44 bg-cover bg-krbanner bg-center relative'>
         <button ref={menuRef} onClick={openMenu} className='absolute w-10 h-10 top-8 right-12 max-sm:right-8 max-sm:top-6 bg-white rounded-full border-none outline-none'>
           <i class="fa-solid fa-ellipsis relative">
@@ -131,7 +131,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/625520157-trk-edebiyat-klasikleri' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#E74C3C] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Türk Edebiyatı Klasikleri</div>
@@ -145,7 +145,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650851164' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#538392] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Alman Edebiyatı Klasikleri</div>
@@ -159,7 +159,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850589' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#6B8A7A] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Amerikan Edebiyatı Klasikleri</div>
@@ -173,7 +173,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850766' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#808836] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Fransız Edebiyatı Klasikleri</div>
@@ -187,7 +187,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650851698' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#987070] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>İngiliz Edebiyatı Klasikleri</div>
@@ -201,7 +201,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/650850912' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#B5C18E] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Rus Edebiyatı Klasikleri</div>
@@ -215,7 +215,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/865638071' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#A91D3A] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Yunan Edebiyatı Klasikleri</div>
@@ -229,7 +229,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1040994699' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#5AB2FF] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>İtalyan Edebiyatı Klasikleri</div>
@@ -243,7 +243,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1197032084' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#640D6B] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>İspanyol Edebiyatı Klasikleri</div>
@@ -257,7 +257,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1533130386' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#3C5B6F] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Macar Edebiyatı Klasikleri</div>
@@ -271,7 +271,7 @@ function Home() {
         <a className='w-3/5 h-16 max-sm:w-11/12' href='https://www.wattpad.com/list/1577237256' target="_blank" rel="noopener noreferrer">
           <div className='w-full h-20 max-sm:h-16 rounded-full bg-white oxshadow flex items-center justify-between'>
             <div className='w-4/5 h-16 flex'>
-              <div className='w-2/12 h-16 flex items-center text-[#FF5733] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
+              <div className='w-2/12 h-16 flex items-center text-[#445d48] justify-center text-2xl max-sm:text-lg max-sm:w-3/12'>
                 <i class="fa-solid fa-book-open-reader"></i>
               </div>
               <div className='w-10/12 h-16 flex items-center font-dmsans font-semibold text-xl max-sm:text-sm max-sm:w-9/12'>Japon Edebiyatı Klasikleri</div>
@@ -284,11 +284,11 @@ function Home() {
 
       </div>
 
-      <div className='w-full h-96 flex flex-col items-center'>
+      <div className='w-full h-auto flex flex-col items-center'>
         <div className='w-3/5 py-4 font-semibold text-2xl max-sm:w-11/12 max-sm:text-xl'>Yeni Çıkanlar</div>
 
 
-        <div className='w-3/5 max-sm:w-11/12 py-4 flex'>
+        <div className='w-3/5 max-sm:w-11/12 py-2 flex'>
           <div className='frame bg-osamu w-1/4 max-sm:w-1/3 bg-cover'></div>
           <div className='w-3/4 h-auto max-sm:w-2/3'>
             <div className='w-full h-auto px-8 font-semibold text-xl max-sm:text-base'>
@@ -301,9 +301,29 @@ function Home() {
               <a href="https://www.wattpad.com/story/361933106-i̇nsanlığımı-yitirirken" className='py-3 px-8 bg-black rounded-full max-sm:text-sm text-white'>Hemen Oku</a>
             </div>
           </div>
-
         </div>
+
+
+        <div className='w-3/5 max-sm:w-11/12 py-2 flex'>
+          <div className='frame bg-halide w-1/4 max-sm:w-1/3 bg-cover'></div>
+          <div className='w-3/4 h-auto max-sm:w-2/3'>
+            <div className='w-full h-auto px-8 font-semibold text-xl max-sm:text-base'>
+              Ateşten Gömlek
+            </div>
+            <div className='w-full pl-8 pr-4 line-clamp-[9] max-sm:line-clamp-[6] max-sm:text-xs mt-2 text-justify'>Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt. Kurtuluş Savaşı'nın ateşten gömleğinin içinden çıkmış bir roman. Halide Edib Adıvar, her birini yakından tanıdığı roman kişilerini, yani silah arkadaşlarını içtenlikle, çağına ve yaşanan acı olaylara sorumlulukla tanıklık ederek anlatıyor. Bağımsızlık savaşımızı bütün gerçekliği ve canlılığıyla anlatan belki de en önemli roman, Ateşten Gömlek.
+            </div>
+            <div className='w-full pt-6 pb-2 px-8'>
+              <a href="https://www.wattpad.com/story/361933106-i̇nsanlığımı-yitirirken" className='py-3 px-8 bg-black rounded-full max-sm:text-sm text-white'>Hemen Oku</a>
+            </div>
+          </div>
+        </div>
+
       </div>
+
+      <div className='w-full h-32 flex items-center justify-center'>
+        <div className='w-8/12 h-12 flex items-center justify-center bg-gray-200 rounded-full text-sm max-sm:text-xs max-sm:h-10 max-sm:w-9/12'>© 2024 Klasikler | Türkiye, All Rights Reserved</div>
+      </div>
+      
     </div>
   )
 }

@@ -9,6 +9,7 @@ module.exports = {
         'kr': "url('/kr.png')",
         'krbanner': "url('/krbanner.png')",
         'osamu': "url('/osamu.jpg')",
+        'halide': "url('/halide.jpg')",
       }
     },
     fontFamily: {
