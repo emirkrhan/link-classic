@@ -8,6 +8,7 @@ module.exports = {
       backgroundImage: {
         'kr': "url('/kr.png')",
         'krbanner': "url('/krbanner.png')",
+        'osamu': "url('/osamu.jpg')",
       }
     },
     fontFamily: {

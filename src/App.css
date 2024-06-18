@@ -15,3 +15,7 @@
   background: rgba(189, 189, 189, 0.63);
   border-radius: 5px;
 }
+
+.frame{
+  aspect-ratio: 16 / 25; 
+}
