@@ -294,11 +294,11 @@ function Home() {
             <div className='w-full h-auto px-8 font-semibold text-xl max-sm:text-base'>
               İnsanlığımı Yitirirken
             </div>
-            <div className='w-full pl-8 line-clamp-[9] max-sm:line-clamp-[5] max-sm:text-xs mt-2'>O adamın üç fotoğrafını gördüm. Birincisi, çocukluk fotoğrafı diyebilirsiniz, on yaşlarında, etrafı birçok kadınla (şüphesiz kız kardeşleri ve kuzenleri) çevrili küçük bir çocuğu gösteriyordu. Çocuk kalın ipleri olan çizgili bir hakama giymişti ve bir havuzun başında ayakta duruyordu. Başı sola doğru otuz derecelik bir açıyla eğilmiş ve dişleri çirkin bir sırıtışla ortaya çıkmıştı. Çirkin mi? Bu kelimeyi sorgulayabilirsiniz, çünkü duyarsız insanlar (yani güzellik ve çirkinlik konularına kayıtsız olanlar) mekanik bir şekilde mülayim, boş bir ifadeyle "Ne kadar sevimli bir çocuk!" yorumunu yapacaktır.
+            <div className='w-full pl-8 pr-4 line-clamp-[9] max-sm:line-clamp-[6] max-sm:text-xs mt-2 text-justify'>O adamın üç fotoğrafını gördüm. Birincisi, çocukluk fotoğrafı diyebilirsiniz, on yaşlarında, etrafı birçok kadınla (şüphesiz kız kardeşleri ve kuzenleri) çevrili küçük bir çocuğu gösteriyordu. Çocuk kalın ipleri olan çizgili bir hakama giymişti ve bir havuzun başında ayakta duruyordu. Başı sola doğru otuz derecelik bir açıyla eğilmiş ve dişleri çirkin bir sırıtışla ortaya çıkmıştı. Çirkin mi? Bu kelimeyi sorgulayabilirsiniz, çünkü duyarsız insanlar (yani güzellik ve çirkinlik konularına kayıtsız olanlar) mekanik bir şekilde mülayim, boş bir ifadeyle "Ne kadar sevimli bir çocuk!" yorumunu yapacaktır.
               Genelde "sevimli" olarak adlandırılan şeyin bu çocuğun yüzünde, ona edilen iltifata bir nebze anlam katacak kadar mevcut olduğu doğrudur. Ancak, güzelliği neyin oluşturduğuna dair en ufak bir maruziyeti olan herhangi birinin, fotoğrafı eline tırmanan bir tırtılı kovar gibi bir kenara fırlatacağını ve derin bir tiksintiyle "Ne korkunç bir çocuk!" diye mırıldanacağını düşünüyorum.
             </div>
-            <div className='w-full pt-4 pb-2 px-8'>
-              <a href="https://www.wattpad.com/story/361933106-i̇nsanlığımı-yitirirken" className='py-3 px-8 bg-black rounded-full text-white'>Hemen Oku</a>
+            <div className='w-full pt-6 pb-2 px-8'>
+              <a href="https://www.wattpad.com/story/361933106-i̇nsanlığımı-yitirirken" className='py-3 px-8 bg-black rounded-full max-sm:text-sm text-white'>Hemen Oku</a>
             </div>
           </div>
 
